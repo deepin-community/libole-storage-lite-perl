@@ -1,3 +1,21 @@
+libole-storage-lite-perl (0.22-1) unstable; urgency=medium
+
+  * Import upstream version 0.22.
+  * Update years of packaging copyright.
+  * Declare compliance with Debian Policy 4.6.2.
+  * Set Rules-Requires-Root: no.
+  * Add debian/upstream/metadata.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 11 Jun 2023 17:35:25 +0200
+
+libole-storage-lite-perl (0.20-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 12 to 13.
+  * Update standards version to 4.5.1, no changes needed.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sun, 16 Oct 2022 04:56:13 +0100
+
 libole-storage-lite-perl (0.20-1) unstable; urgency=medium
 
   * Import upstream version 0.20.
