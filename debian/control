@@ -5,13 +5,14 @@ Uploaders: Damyan Ivanov <dmn@debian.org>,
 Section: perl
 Testsuite: autopkgtest-pkg-perl
 Priority: optional
-Build-Depends: debhelper-compat (= 12)
+Build-Depends: debhelper-compat (= 13)
 Build-Depends-Indep: libio-stringy-perl <!nocheck>,
                      perl
-Standards-Version: 4.4.1
+Standards-Version: 4.6.2
 Vcs-Browser: https://salsa.debian.org/perl-team/modules/packages/libole-storage-lite-perl
 Vcs-Git: https://salsa.debian.org/perl-team/modules/packages/libole-storage-lite-perl.git
 Homepage: https://metacpan.org/release/OLE-Storage_Lite
+Rules-Requires-Root: no
 
 Package: libole-storage-lite-perl
 Architecture: all

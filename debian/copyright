@@ -10,7 +10,7 @@ License: Artistic or GPL-1+
 Files: debian/*
 Copyright:
  2009, Jonathan Yu <jawnsy@cpan.org>
- 2006-2020, gregor herrmann <gregoa@debian.org>
+ 2006-2023, gregor herrmann <gregoa@debian.org>
  2008, Damyan Ivanov <dmn@debian.org>
  2005, Gunnar Wolf <gwolf@debian.org>
  2001-2004, Dirk Eddelbuettel <edd@debian.org>
